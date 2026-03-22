@@ -12,6 +12,6 @@ public class isPrime {
         return true;
     }
     public static void main(String[] args) {
-        System.out.println(isprm(3));
+        System.out.println(isprm(2));
     }
 }
