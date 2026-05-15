@@ -1,3 +1,4 @@
+package bfs;
 import java.util.*;
 public class bfsDfsTraversal {
     static class Edge {
